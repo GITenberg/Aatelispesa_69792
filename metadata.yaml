@@ -1,0 +1,29 @@
+_repo: Aatelispesa_69792
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Wuorinen, A. Grg ja O.
+    gutenberg_agent_id: '55425'
+    url: http://www.gutenberg.org/2009/agents/55425
+creator:
+  author:
+    agent_name: Turgenev, I. S.
+    gutenberg_agent_id: '55424'
+    url: http://www.gutenberg.org/2009/agents/55424
+description: ''
+gutenberg_issued: '2023-01-14'
+identifiers:
+  gutenberg: '69792'
+language: fi
+pgterms:marc905: 20221230125307turgenev
+pgterms:marc906: '1888'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: 'Finland: Otto Alladt,1888.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Aatelispesä
+url: http://www.gutenberg.org/ebooks/69792
