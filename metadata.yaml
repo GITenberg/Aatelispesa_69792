@@ -5,12 +5,17 @@ contributor:
     agent_name: Wuorinen, A. Grg ja O.
     gutenberg_agent_id: '55425'
     url: http://www.gutenberg.org/2009/agents/55425
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Turgenev, I. S.
     gutenberg_agent_id: '55424'
     url: http://www.gutenberg.org/2009/agents/55424
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69792#Aatelispesa
 gutenberg_issued: '2023-01-14'
 identifiers:
   gutenberg: '69792'
